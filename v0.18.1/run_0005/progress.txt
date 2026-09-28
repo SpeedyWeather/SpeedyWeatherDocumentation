@@ -1,0 +1,19 @@
+Starting SpeedyWeather.jl run_0005 on Tue, 17 Feb 2026 11:05:41
+Integrating:
+SpectralGrid{Spectrum{...}, OctahedralGaussianGrid{...}}
+├ Number format: Float32
+├ Spectral:      T42 LowerTriangularMatrix
+├ Grid:          64-ring OctahedralGaussianGrid, 5248 grid points
+├ Resolution:    2.8°, 312km (at 6371km radius)
+├ Vertical:      1-layer atmosphere
+└ Architecture:  CPU using Array
+Time: 1.0 days at Δt = 1786.047s
+
+All data will be stored in /home/runner/work/SpeedyWeather.jl/SpeedyWeather.jl/docs/build/run_0005
+
+ 25%, ETA: 0:00:00, ,   Inf millenia/day
+ 50%, ETA: 0:00:00, ,   Inf millenia/day
+ 75%, ETA: 0:00:00, ,   Inf millenia/day
+100%, ETA: 0:00:00, ,   Inf millenia/day
+
+Integration done in empty period.
