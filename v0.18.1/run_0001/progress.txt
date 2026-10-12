@@ -1,0 +1,35 @@
+Starting SpeedyWeather.jl run_0001 on Tue, 17 Feb 2026 11:00:59
+Integrating:
+SpectralGrid{Spectrum{...}, OctahedralGaussianGrid{...}}
+├ Number format: Float32
+├ Spectral:      T31 LowerTriangularMatrix
+├ Grid:          48-ring OctahedralGaussianGrid, 3168 grid points
+├ Resolution:    3.61°, 401km (at 6371km radius)
+├ Vertical:      8-layer atmosphere
+└ Architecture:  CPU using Array
+Time: 5.0 days at Δt = 2400.0s
+
+All data will be stored in /home/runner/work/SpeedyWeather.jl/SpeedyWeather.jl/docs/build/run_0001
+
+  5%, ETA: 0:00:01, ,   Inf millenia/day
+ 10%, ETA: 0:00:01, ,   Inf millenia/day
+ 15%, ETA: 0:00:01, ,   Inf millenia/day
+ 15%, ETA: 0:00:01, ,   Inf millenia/day
+ 20%, ETA: 0:00:01, ,   Inf millenia/day
+ 20%, ETA: 0:00:01, ,   Inf millenia/day
+ 25%, ETA: 0:00:01, ,   Inf millenia/day
+ 30%, ETA: 0:00:01, ,   Inf millenia/day
+ 35%, ETA: 0:00:01, ,   Inf millenia/day
+ 40%, ETA: 0:00:01, ,   Inf millenia/day
+ 45%, ETA: 0:00:01, ,   Inf millenia/day
+ 50%, ETA: 0:00:01, ,   Inf millenia/day
+ 55%, ETA: 0:00:01, ,   Inf millenia/day
+ 60%, ETA: 0:00:00, ,   Inf millenia/day
+ 65%, ETA: 0:00:00, ,   Inf millenia/day
+ 70%, ETA: 0:00:00, ,   Inf millenia/day
+ 75%, ETA: 0:00:00, ,   Inf millenia/day
+ 80%, ETA: 0:00:00, ,   Inf millenia/day
+ 85%, ETA: 0:00:00, ,   Inf millenia/day
+100%, ETA: 0:00:00, ,   Inf millenia/day
+
+Integration done in empty period.
